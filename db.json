@@ -2,11 +2,11 @@
   "cookies": {
     "cookie-stats": {
       "eating": 1,
-      "eaten": "6"
+      "eaten": 6
     },
     "people-eating": {
       "current": 3,
-      "total": "6"
+      "total": 6
     }
   }
 }
